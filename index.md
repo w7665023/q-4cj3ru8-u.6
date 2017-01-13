@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 台灣保育類物種介紹-臺灣寬尾鳳蝶
 
-You can use the [editor on GitHub](https://github.com/w7665023/q-4cj3ru8-u.6/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1.	臺灣寬尾鳳蝶，學名: Agehana maraho，寬尾鳳蝶屬( Agehana )在全世界只有兩種，一種為廣泛分布於中國大陸南方的中華寬尾鳳蝶( Agehana elwesi )以及只分布於臺灣的特有種-臺灣寬尾鳳蝶。臺灣寬尾鳳蝶在野生動物保育法中被列為第一級保育類動物(瀕臨絕種)，為臺灣無脊椎動物中，三種第一級保育類動物的其中之一，另外兩種為只分布於蘭嶼的珠光鳳蝶以及分布於台灣北部的大紫蛺蝶，在國際自然保育聯盟紅皮書( IUCN red list )的保育等級中被列為NT (近危)的等級，為保護現狀比較低，但可能在不久的將來有瀕危或滅絕等危險。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2.	臺灣寬尾鳳蝶目前主要分佈於觀霧、太平山以及明池一帶，全臺灣族群量約為1000隻左右，其食性單一，目前僅發現臺灣檫樹( Sassafras randaiense)一種為其寄主植物；但其近緣種中華寬尾鳳蝶食性多樣，除了檫樹以外，尚有木蘭科(Magnoliaceae) 8種植物為主要寄主植物，目前主要取食臺灣檫樹的鳳蝶種類共有兩種，為臺灣寬尾鳳蝶以及青帶鳳蝶(Graphium sarpedon)，而這兩種蝴蝶的產卵位置也有所差別，臺灣寬尾鳳蝶主要產卵於成熟葉片的上表面，通常產1~2顆卵於一葉片上；青帶鳳蝶主要產卵於嫩芽以及嫩葉上(王，2006)，而任職於宜蘭順安國小的廖有麟先生於1966年採集到寬尾鳳蝶的終齡幼蟲，並飼養到成功羽化，為台灣首次觀察到臺灣寬尾鳳蝶的生活史，而廖有麟及張士珍(1986)蒐集數十年關於其生態習性的探討以及資料的建構，奠定往後臺灣寬尾鳳蝶研究的基礎，但至今仍有部分其生活史與習性有待釐清，如一年羽化次數，目前有一年幾世代，以及寄主植物是否能以其他植物替代等，未來需進一步研究探討。
 
-### Markdown
+3.	臺灣寬尾鳳蝶因其外觀碩大美麗、紋路特殊，使得其受到非常龐大的非法捕獵壓力。再者，臺灣寬尾鳳蝶以及臺灣檫樹皆為冰河孓遺物種，而臺灣檫樹目前並沒有辦法以人工方式進行繁殖復育，自然環境的破壞使得臺灣檫樹數量越來越少，寄主植物只有臺灣檫樹的臺灣寬尾鳳蝶也面臨很大的危機。目前對於臺灣寬尾鳳蝶的保育主要以法規的保護以及保護區的劃設以及臺灣檫樹的復育為主，未來對於其保育的研究著重於對找尋替代食用植物的研究，以及臺灣檫樹的繁殖復育方法的研究為主。除此之外，我認為可以利用人工繁殖的方式大量的復育臺灣寬尾鳳蝶，讓其族群量增加，以及對於臺灣檫樹可以在其保護區內更大量的種植臺灣檫樹來復育臺灣寬尾鳳蝶。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/w7665023/q-4cj3ru8-u.6/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4.	參考文獻:
+# 維基百科-台灣寬尾鳳蝶 https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AF%AC%E5%B0%BE%E9%B3%B3%E8%9D%B6
+# 嘎嘎昆蟲網-寬尾鳳蝶 http://gaga.biodiv.tw/9701bx/in94.htm
+# 廖有麟、張士珍。1986。國蝶-寬尾鳳蝶生態研究。中華民國第25屆中小學科學展覽會
+# 王立豪。2006。臺灣寬尾鳳蝶的習性與生態需求之研究
+# 呂至堅、陳建仁。2014。蝴蝶生活史圖鑑
+# 徐堉峰。2013。臺灣蝴蝶圖鑑（上）弄蝶、鳳蝶、粉蝶
